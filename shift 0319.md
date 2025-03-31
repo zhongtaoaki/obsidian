@@ -77,3 +77,6 @@ A8. 7月1日
 自己紹介、志望動機を英語で準備
 
 通過ポイント
+
+
+/Users/aki/Library/Mobile Documents/iCloud~md~obsidian/Documents/aki
