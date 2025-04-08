@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "未命名.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "f2b77a594761f356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ふりかえりガイドブック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ふりかえりガイドブック"
+            }
+          },
+          {
+            "id": "f14fc02008d65c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "平鍋さんのふりかえりとは.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "平鍋さんのふりかえりとは"
+            }
+          },
+          {
+            "id": "6121e7e606fcdfff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "経験学習サイクル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "経験学習サイクル"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,15 +223,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25ff27b2c932ef0b",
+  "active": "e929bdf968a998bd",
   "lastOpenFiles": [
+    "ふりかえりガイドブック.md",
+    "平鍋さんのふりかえりとは.md",
+    "経験学習サイクル.md",
     "未命名.md",
-    "README.md",
     "shift 0319.md",
     "転職　Shift.md",
-    "PDR2024.md",
-    "PDR2023.md",
+    "微博链接分享.md",
+    "スクリーンショット 2025-04-06 22.15.52.png",
+    "スクリーンショット 2025-04-06 22.15.35.png",
+    "スクリーンショット 2025-04-06 22.04.17.png",
     "temp.md",
-    "微博链接分享.md"
+    "README.md",
+    "PDR2024.md",
+    "PDR2023.md"
   ]
 }
